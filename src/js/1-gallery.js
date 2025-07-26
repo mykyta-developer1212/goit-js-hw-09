@@ -3,48 +3,48 @@ import 'simplelightbox/dist/simple-lightbox.min.css';
 
 const images = [
   {
-    preview: './goit-js-hw-09/src/img/command.jpg',
-    original: '../img/command-big.jpg',
+    preview: '/goit-js-hw-09/img/command.jpg',
+    original: '/goit-js-hw-09/img/command-big.jpg',
     description: 'Command work',
   },
   {
-    preview: '../img/idea.jpg',
-    original: '../img/idea-big.jpg',
+    preview: '/goit-js-hw-09/img/idea.jpg',
+    original: '/goit-js-hw-09/img/idea-big.jpg',
     description: 'Idea',
   },
   {
-    preview: '../img/list.jpg',
-    original: '../img/list-big.jpg',
+    preview: '/goit-js-hw-09/img/list.jpg',
+    original: '/goit-js-hw-09/img/list-big.jpg',
     description: 'List',
   },
   {
-    preview: '../img/interior.jpg',
-    original: '../img/interior-big.jpg',
+    preview: '/goit-js-hw-09/img/interior.jpg',
+    original: '/goit-js-hw-09/img/interior-big.jpg',
     description: 'Interior',
   },
   {
-    preview: '../img/room.jpg',
-    original: '../img/room-big.jpg',
+    preview: '/goit-js-hw-09/img/room.jpg',
+    original: '/goit-js-hw-09/img/room-big.jpg',
     description: 'Room',
   },
   {
-    preview: '../img/office.jpg',
-    original: '../img/office-big.jpg',
+    preview: '/goit-js-hw-09/img/office.jpg',
+    original: '/goit-js-hw-09/img/office-big.jpg',
     description: 'Office',
   },
   {
-    preview: '../img/work.jpg',
-    original: '../img/work-big.jpg',
+    preview: '/goit-js-hw-09/img/work.jpg',
+    original: '/goit-js-hw-09/img/work-big.jpg',
     description: 'Work',
   },
   {
-    preview: '../img/programming.jpg',
-    original: '../img/programming-big.jpg',
+    preview: '/goit-js-hw-09/img/programming.jpg',
+    original: '/goit-js-hw-09/img/programming-big.jpg',
     description: 'Programming',
   },
   {
-    preview: '../img/plan.jpg',
-    original: '../img/plan-big.jpg',
+    preview: '/goit-js-hw-09/img/plan.jpg',
+    original: '/goit-js-hw-09/img/plan-big.jpg',
     description: 'Plan',
   },
 ];
