@@ -3,7 +3,7 @@ import 'simplelightbox/dist/simple-lightbox.min.css';
 
 const images = [
   {
-    preview: '../img/command.jpg',
+    preview: './goit-js-hw-09/src/img/command.jpg',
     original: '../img/command-big.jpg',
     description: 'Command work',
   },
